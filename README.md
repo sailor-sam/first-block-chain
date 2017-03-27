@@ -1,2 +1,3 @@
 # first-block-chain
 first Ethereum block chain 
+I am discovering how to make edits and add files in a separate branch, and then merge them to the MASTER branch...
